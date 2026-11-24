@@ -1,12 +1,12 @@
 ## Made from terminal
 Bash
 cat << 'EOF' > INSTRUCTION.md
-# Django-Todolist — Docker Compose Instructions
+# Django-Todolist — docker compose Instructions
 
 This document describes how to build, run, monitor, and stop the **Django-Todolist** web application and **MySQL** database using Docker Compose.
 
 ## Prerequisites
-- [Docker](https://docs.docker.com/get-docker/) and [Docker Compose](https://docs.docker.com/compose/) installed and running.
+- [Docker](https://docs.docker.com/get-docker/) and [docker compose](https://docs.docker.com/compose/) installed and running.
 - Repository cloned locally:
     bash
   git clone git@github.com:Geo-DevO/devops_todolist_docker_core_task_3_docker_compose.git
