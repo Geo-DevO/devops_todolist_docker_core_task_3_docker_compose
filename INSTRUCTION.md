@@ -8,7 +8,7 @@ This document describes how to build, run, monitor, and stop the **Django-Todoli
 ## Prerequisites
 - [Docker](https://docs.docker.com/get-docker/) and [Docker Compose](https://docs.docker.com/compose/) installed and running.
 - Repository cloned locally:
-  ```bash
+    bash
   git clone git@github.com:Geo-DevO/devops_todolist_docker_core_task_3_docker_compose.git
   cd devops_todolist_docker_core_task_3_docker_compose
 
